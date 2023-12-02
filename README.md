@@ -1,4 +1,4 @@
-# nth_most_rare Function
+# Nth rarest Item
 
 This Python function, `nth_most_rate`, identifies the nth rarest item in a list of integers based on their occurrence frequency.
 
@@ -9,6 +9,12 @@ To clone the `nth_rarest` repository, use the following command in your terminal
 ```bash
 git clone https://github.com/Ken-Obieze/nth_rarest.git
 ```
+
+## Content
+* README.md: Markdown code for the task
+* nth_rarest.py: Holds the nth_most_rate function declaration
+* main.py: Tests the initial condition that was given
+* test_nth_rarest.py: Simple python test using assert
 
 ## Main Code
 
@@ -72,3 +78,6 @@ if __name__ == "__main__":
     test_case_2()
     print("All tests passed successfully!")
 ```
+
+# Author
+Ejiofor Kenneth Obieze
